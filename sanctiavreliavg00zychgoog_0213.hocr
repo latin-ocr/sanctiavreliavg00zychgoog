@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiavreliavg00zychgoog_0213.png"; bbox 0 0 2940 4628; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 362 1964 1225 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 362 1964 1225 2200">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 1964 880 2022; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 365 1964 386 2020; x_wconf 82' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_2' title='bbox 405 1995 429 2022; x_wconf 89' lang='lat'>=</span> <span class='ocrx_word' id='word_1_3' title='bbox 447 1964 617 2020; x_wconf 78' lang='lat' dir='ltr'><strong>Gamutensis</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 635 1981 674 2020; x_wconf 89' lang='lat' dir='ltr'><strong>nr.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 694 1967 742 2020; x_wconf 86' lang='lat'><strong>101</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 761 1981 831 2021; x_wconf 74' lang='lat' dir='ltr'><strong>saec.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 848 1966 880 2022; x_wconf 84' lang='lat' dir='ltr'><strong>X.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 363 2051 1225 2124; baseline 0.005 -18"><span class='ocrx_word' id='word_1_8' title='bbox 363 2051 380 2106; x_wconf 94' lang='lat' dir='ltr'>b</span> <span class='ocrx_word' id='word_1_9' title='bbox 406 2083 429 2109; x_wconf 86' lang='lat'>=</span> <span class='ocrx_word' id='word_1_10' title='bbox 448 2052 530 2108; x_wconf 74' lang='lat' dir='ltr'><strong>editio</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 548 2055 632 2124; x_wconf 85' lang='lat' dir='ltr'>princ.</span> <span class='ocrx_word' id='word_1_12' title='bbox 649 2053 771 2108; x_wconf 73' lang='lat' dir='ltr'><strong>Basileae</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 791 2055 859 2110; x_wconf 82' lang='lat'>1506</span> <span class='ocrx_word' id='word_1_14' title='bbox 878 2055 949 2124; x_wconf 78' lang='lat' dir='ltr'><strong>apud</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 966 2053 1005 2109; x_wconf 91' lang='lat' dir='ltr'><strong>Io.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1024 2055 1225 2110; x_wconf 77' lang='lat' dir='ltr'><strong>Amerbachium</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 362 2142 865 2200; baseline 0.006 -2"><span class='ocrx_word' id='word_1_17' title='bbox 362 2143 447 2198; x_wconf 79' lang='lat' dir='ltr'><strong>Maur.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 468 2172 489 2199; x_wconf 84' lang='lat'>=</span> <span class='ocrx_word' id='word_1_19' title='bbox 508 2142 591 2197; x_wconf 79' lang='lat' dir='ltr'><strong>editio</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 607 2142 729 2197; x_wconf 65' lang='lat' dir='ltr'>Maurius</span> <span class='ocrx_word' id='word_1_21' title='bbox 746 2160 770 2196; x_wconf 83' lang='lat' dir='ltr'><strong>a.</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 790 2144 865 2200; x_wconf 84' lang='lat'>1680.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1474 4628">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1474 4628">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1474 4628; baseline 0 0"><span class='ocrx_word' id='word_1_23' title='bbox 0 0 1474 4628; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

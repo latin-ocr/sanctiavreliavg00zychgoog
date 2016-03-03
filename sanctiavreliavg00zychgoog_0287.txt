@@ -1,0 +1,15 @@
+0 = codex coloniensis LXXX saeculi VIHI.
+
+B = codex Laudensis 138 saec. X Ineuntis.
+
+S = codex sorbonious 15302 mc. XIII.
+
+P :codex Parisinus 1908 saec. xm.
+
+Τ = codex willermus nunc Parisinus 1918 saec. XIII.
+D = codex Dauensis 275 saec. X.
+
+Maur. = editio Maurius a. 1680.
+
+ 
+
